@@ -1,2 +1,2 @@
-# mockito-crafting-code
-Craft Coder - Mockito
+# Mockito - Crafting Code
+Mockito by Awesome Examples
