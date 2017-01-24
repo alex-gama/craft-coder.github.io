@@ -7,4 +7,4 @@ layout: default
 - [Configuring Mockito without Annotations](mockito-configuration/mockito-configuration-without-annotation)
 - [Configuring Mockito with Annotations](mockito-configuration/mockito-configuration-without-annotation)
 
-[Back to Mockito Configuration Page](google-guava-optional) to Optional page
+[Back](index) to Main Page
