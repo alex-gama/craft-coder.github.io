@@ -8,4 +8,4 @@ layout: default
 - [Configuring Mockito without Annotations](mockito-configuration-without-annotation)
 - [Configuring Mockito with Annotations](mockito-configuration-without-annotation)
 
-[Back](/) to Main Page
+[Back](/mockito-crafting-code) to Main Page
