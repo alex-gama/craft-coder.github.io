@@ -8,4 +8,4 @@ layout: default
 - [Configuring Mockito without Annotations](mockito-configuration-without-annotation)
 - [Configuring Mockito with Annotations](mockito-configuration-without-annotation)
 
-[Back](/index) to Main Page
+[Back](/) to Main Page
