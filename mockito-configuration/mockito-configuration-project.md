@@ -39,4 +39,5 @@ Are you curious or maybe crazy about beta versions? Great! Let's check the last 
 We will talk about features that are being introduced in this Beta Version :)
 
 [Back to Mockito Configuration Page](configuring-mockito-with-and-without-annotation)
-[Back to Main page](index)
+
+[Back to Main page](/index)
