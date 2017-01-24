@@ -2,7 +2,7 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Google Guava - Crafting Code</title>
+    <title>Mockito</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -10,40 +10,153 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">Google Guava - Crafting Code</h1>
-      <h2 class="project-tagline">Let's craft code with Google Guava Framework</h2>
+      <h1 class="project-name">Mockito</h1>
+      <h2 class="project-tagline">Let's craft code with Mockito Library</h2>
       
       
     </section>
 
     <section class="main-content">
-      <h1 id="google-guava"><a href="#header-1"></a>Google Guava</h1>
+      <h1 id="mockito"><a href="#header-1"></a>Mockito</h1>
 
-<p>You will see a lot of awesome examples of how to use Google Guava, crafting with s2, music and beer by <a href="https://github.com/alexandregama">@alexandregama</a></p>
+<p>You will see a lot of awesome examples of how to use Mockito Library, crafted with s2, music and beer by <a href="https://github.com/alexandregama">@alexandregama</a></p>
 
-<h2 id="basic-utilities"><a href="#header-2"></a>Basic Utilities</h2>
-
-<p>Do you like to see many examples of how to use Optionals in Guava? Go ahead!</p>
-
+<h2 id="configuring-your-test-to-use-mockito"><a href="#header-2"></a>Configuring Your Test to Use Mockito</h2>
 <ul>
-  <li><a href="optional/google-guava-optional">Optional</a>
+  <li><a href="mockito-configuration/configuring-mockito-with-and-without-annotation">Configuring Mockito</a>
     <ul>
-      <li><a href="optional/google-guava-optional-of">Optional.of</a></li>
-      <li><a href="optional/google-guava-optional-absent">Optional.absent</a></li>
-      <li><a href="optional/google-guava-optional-from-nullable">Optional.fromNullable</a></li>
+      <li><a href="mockito-configuration/mockito-configuration-without-annotation">Configuring Mockito without Annotations</a></li>
+      <li><a href="mockito-configuration/mockito-configuration-without-annotation">Configuring Mockito with Annotations</a></li>
     </ul>
   </li>
 </ul>
 
-<h2 id="collections"><a href="#header-2"></a>Collections</h2>
+<h2 id="behavior-and-stubbing"><a href="#header-2"></a>Behavior and Stubbing</h2>
 
 <ul>
-  <li><a href="https://github.com/alexandregama">Collections</a></li>
+  <li><a href="mockito/mockito-behavior-and-stubbing">Behavior and Stubbing</a>
+    <ul>
+      <li><a href="mockito-behavior/mockito-using-mock">mock() and verify()</a></li>
+      <li><a href="mockito-stubbing/mockito-mock-when-then-return-verify">mock(), thenReturn(), when() and verify()</a></li>
+      <li><a href="mockito-stubbing/mockito-then-throw">thenThrow()</a></li>
+      <li><a href="mockito-stubbing/mockito-mock-when-then-return-verify">Stubbing with Fluent Interface</a></li>
+      <li><a href="mockito-stubbing/mockito-resetting-interactions">Resetting interactions</a></li>
+      <li><a href="mockito-stubbing/mockito-ignoring-stubs">Ignoring Stubs</a></li>
+      <li><a href="mockito-bdd/mockito-behavioral-driven-development">BDD with Mockito</a></li>
+      <li><a href="mockito-verification/mockito-verification-custom-message">Custom Verification Error Message</a></li>
+    </ul>
+  </li>
 </ul>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>The final element.
-</code></pre>
-</div>
+<h2 id="argument-matcher---basic"><a href="#header-2"></a>Argument Matcher - Basic</h2>
+
+<ul>
+  <li><a href="argument-matcher/basic-mockito-argument-matcher">Argument Matcher</a>
+    <ul>
+      <li><a href="argument-matcher/basic-mockito-argument-matcher">Basic Argument Matcher</a></li>
+      <li><a href="argument-matcher/basic-mockito-argument-matcher">Warning Argument Matcher</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="number-of-interactions"><a href="#header-2"></a>Number of Interactions</h2>
+
+<ul>
+  <li><a href="mockito-interactions/number-of-interactions">Number of Interactions</a>
+    <ul>
+      <li><a href="mockito-interactions/basic-mockito-number-interactions">Basic Number of Interactions</a></li>
+      <li><a href="mockito-interactions/special-mockito-number-interactions">Special Number of Interactions</a></li>
+      <li><a href="mockito-interactions/mockito-never-doing-interactions">Never doing an interaction</a></li>
+      <li><a href="mockito-interactions/mockito-redundant-invocations">Redundant Invocations</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="verifying-mocks-with-timeout"><a href="#header-2"></a>Verifying mocks with Timeout</h2>
+
+<ul>
+  <li><a href="mockito-timeout/mockito-verifying-with-timeout">Verifying with Timeout</a>
+    <ul>
+      <li><a href="mockito-timeout/mockito-basic-timeout-verification">Basic Timeout verification</a></li>
+      <li><a href="mockito-timeout/mockito-special-timeout-verification">Special Timeout verification</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="verifying-particular-order"><a href="#header-2"></a>Verifying Particular Order</h2>
+
+<ul>
+  <li><a href="mockito-ordering/mockito-particular-order">Verifying Particular Order</a>
+    <ul>
+      <li><a href="mockito-ordering/mockito-particular-order-single-mock">For Single Mock</a></li>
+      <li><a href="mockito-ordering/mockito-particular-order-non-single-mock">For Non Single Mock</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="stubbing-void-methods"><a href="#header-2"></a>Stubbing Void Methods</h2>
+
+<ul>
+  <li><a href="mockito-stubbing/mockito-stubbing-void-methods">Stubbing Void Methods</a>
+    <ul>
+      <li><a href="mockito-stubbing-void-methods/mockito-do-return">doReturn()</a></li>
+      <li><a href="mockito-stubbing-void-methods/mockito-do-throw">doThrow()</a></li>
+      <li><a href="mockito-stubbing-void-methods/mockito-do-answer">doAnswer()</a></li>
+      <li><a href="mockito-stubbing-void-methods/mockito-do-nothing">doNothing()</a></li>
+      <li><a href="mockito-stubbing-void-methods/mockito-do-call-real-method">doCallRealMethod()</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="spying-on-real-methods"><a href="#header-2"></a>Spying on Real Methods</h2>
+<ul>
+  <li><a href="mockito-spy/mockito-spying-real-methods">Spying on Real Methods</a>
+    <ul>
+      <li><a href="mockito-spy/mockito-spying-real-methods-without-annotation">Spying without annotation</a></li>
+      <li><a href="mockito-spy/mockito-spying-real-methods-with-annotation">Spying with annotation</a></li>
+      <li><a href="mockito-spy/mockito-spying-real-void-methods">Spying void methods</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="capturing-arguments-with-argumentcaptor"><a href="#header-2"></a>Capturing Arguments with ArgumentCaptor</h2>
+
+<ul>
+  <li><a href="mockito-argument-captor/mockito-capturing-arguments-argument-captor">ArgumentCaptor</a>
+    <ul>
+      <li><a href="mockito-argument-captor/mockito-argument-captor-without-annotation">ArgumentCaptor without annotation</a></li>
+      <li><a href="mockito-argument-captor/mockito-argument-captor-with-annotation">ArgumentCaptor with annotation</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="partial-mock"><a href="#header-2"></a>Partial Mock</h2>
+
+<ul>
+  <li><a href="mockito-partial-mock/mockito-partial-mock-support">Partial Mock</a></li>
+</ul>
+
+<h2 id="mocks-answer"><a href="#header-2"></a>Mock’s Answer</h2>
+
+<ul>
+  <li><a href="mockito-answer/mockito-configuring-answer">Mock’s Answer</a>
+    <ul>
+      <li><a href="mockito-answer/mockito-then-answer">Mock’s Answer with thenAnswer()</a></li>
+      <li><a href="mockito-answer/mockito-then-answer-calls-real-methods">Calls Real Methods</a></li>
+      <li><a href="mockito-answer/mockito-then-answer-returns-deep-stubs">Returns Deep Stubs</a></li>
+      <li><a href="mockito-answer/mockito-then-answer-returns-defaults">Returns Defaults</a></li>
+      <li><a href="mockito-answer/mockito-then-answer-returns-mocks">Returns Mocks</a></li>
+      <li><a href="mockito-answer/mockito-then-answer-returns-self">Returns Self</a></li>
+      <li><a href="mockito-answer/mockito-then-smart-nulls">Returns Smart Nulls</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="java-8-lambda-support"><a href="#header-2"></a>Java 8 Lambda Support</h2>
+
+<ul>
+  <li><a href="mockito-java8/mockito-java8-lambda-support">Java 8 Lambda Support</a></li>
+</ul>
 
 
       <footer class="site-footer">
