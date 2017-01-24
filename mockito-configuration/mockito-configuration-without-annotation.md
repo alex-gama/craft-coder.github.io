@@ -63,4 +63,4 @@ Better, isn't it? :)
 
 [Back to Mockito Configuration Page](configuring-mockito-with-and-without-annotation)
 
-[Back to Main page](/index)
+[Back to Main page](/)
