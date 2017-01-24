@@ -8,6 +8,7 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
 
 ## [](#header-2)Configuring Your Test to Use Mockito
 - [Configuring Mockito](mockito-configuration/configuring-mockito-with-and-without-annotation)
+    - [Configuring Mockito Project](mockito-configuration/mockito-configuration-project)
     - [Configuring Mockito without Annotations](mockito-configuration/mockito-configuration-without-annotation)
     - [Configuring Mockito with Annotations](mockito-configuration/mockito-configuration-without-annotation)
 
@@ -44,13 +45,13 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
     - [Special Timeout verification](mockito-timeout/mockito-special-timeout-verification)
 
 
-## [](#header-2)Verifying Particular Order    
+## [](#header-2)Verifying Particular Order
 
 - [Verifying Particular Order](mockito-ordering/mockito-particular-order)
     - [For Single Mock](mockito-ordering/mockito-particular-order-single-mock)
     - [For Non Single Mock](mockito-ordering/mockito-particular-order-non-single-mock)
 
-## [](#header-2)Stubbing Void Methods    
+## [](#header-2)Stubbing Void Methods
 
 - [Stubbing Void Methods](mockito-stubbing/mockito-stubbing-void-methods)
     - [doReturn()](mockito-stubbing-void-methods/mockito-do-return)
@@ -59,7 +60,7 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
     - [doNothing()](mockito-stubbing-void-methods/mockito-do-nothing)
     - [doCallRealMethod()](mockito-stubbing-void-methods/mockito-do-call-real-method)
 
-## [](#header-2)Spying on Real Methods        
+## [](#header-2)Spying on Real Methods
 - [Spying on Real Methods](mockito-spy/mockito-spying-real-methods)
     - [Spying without annotation](mockito-spy/mockito-spying-real-methods-without-annotation)
     - [Spying with annotation](mockito-spy/mockito-spying-real-methods-with-annotation)
@@ -71,7 +72,7 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
     - [ArgumentCaptor without annotation](mockito-argument-captor/mockito-argument-captor-without-annotation)
     - [ArgumentCaptor with annotation](mockito-argument-captor/mockito-argument-captor-with-annotation)
 
-## [](#header-2)Partial Mock    
+## [](#header-2)Partial Mock
 
 - [Partial Mock](mockito-partial-mock/mockito-partial-mock-support)
 
