@@ -6,6 +6,6 @@ layout: default
 
 - [Configuring Mockito Project](mockito-configuration-project)
 - [Configuring Mockito without Annotations](mockito-configuration-without-annotation)
-- [Configuring Mockito with Annotations](mockito-configuration-without-annotation)
+- [Configuring Mockito with Annotations](mockito-configuration-with-annotation)
 
 [Back](/mockito-crafting-code) to Main Page
