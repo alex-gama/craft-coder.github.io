@@ -4,7 +4,7 @@ layout: default
 
 # Mockito - Using Mocks with mock() and verify() methods
 
-**Example 1**
+### Example 1
 
 In this example we will not use Mocked objects and instead of that we will use the Real object. Just to see the difference between Real and Mocked objects
 
@@ -24,7 +24,7 @@ public class MockitoMockAndStubsTest {
 }
 ```
 
-**Example 2**
+### Example 2
 
 Now we're trying to retrieve a user which id does not exists
 
@@ -44,7 +44,7 @@ public class MockitoMockAndStubsTest {
 }
 ```
 
-**Example 3**
+### Example 3
 
  Imagine that the UserDatabase makes a costly operation when try to find a user name
  given an id :(
@@ -74,7 +74,7 @@ public class MockitoMockAndStubsTest {
 }
 ```
 
-**Example 4**
+### Example 4
 
 In the following example the test will not pass since we are verifying that the method was called
 	 with a different id. Mockito just recorded that the method has called with id = 18
