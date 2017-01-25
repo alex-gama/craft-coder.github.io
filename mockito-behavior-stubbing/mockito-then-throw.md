@@ -70,6 +70,21 @@ public class MockitoWorkingWithExceptionsTest {
 }
 ```
 
+**Auxiliar UserDatabase class**
+
+```java
+class UserDatabase {
+
+	public String findNameById(Long id) {
+		if (id == 1) {
+			return "Alexandre Gama";
+		}
+		return "Craft Coder - Mockito";
+	}
+
+}
+```
+
 [Back to Behavior and Stubbing](mockito-behavior-and-stubbing)
 
 [Back](/mockito-crafting-code) to Main Page
