@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Mockito Behavior and Stubbing
+# Mockito Behavior and Stubbing
 
 - [mock() and verify()](mockito-using-mock)
 - [mock(), thenReturn(), when() and verify()](mockito-mock-when-then-return-verify)
