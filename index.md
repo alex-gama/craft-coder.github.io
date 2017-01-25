@@ -14,11 +14,11 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
 
 ## [](#header-2)Behavior and Stubbing
 
-- [Behavior and Stubbing](mockito/mockito-behavior-and-stubbing)
+- [Behavior and Stubbing](mockito-behavior/mockito-behavior-and-stubbing)
   - [mock() and verify()](mockito-behavior/mockito-using-mock)
   - [mock(), thenReturn(), when() and verify()](mockito-stubbing/mockito-mock-when-then-return-verify)
   - [thenThrow()](mockito-stubbing/mockito-then-throw)
-  - [Stubbing with Fluent Interface](mockito-stubbing/mockito-mock-when-then-return-verify)
+  - [Stubbing with Fluent Interface](mockito-stubbing/mockito-stubbing-fluent-interface)
   - [Resetting interactions](mockito-stubbing/mockito-resetting-interactions)
   - [Ignoring Stubs](mockito-stubbing/mockito-ignoring-stubs)
   - [BDD with Mockito](mockito-bdd/mockito-behavioral-driven-development)
@@ -26,9 +26,9 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
 
 ## [](#header-2)Argument Matcher - Basic
 
-- [Argument Matcher](argument-matcher/basic-mockito-argument-matcher)
-    - [Basic Argument Matcher](argument-matcher/basic-mockito-argument-matcher)
-    - [Warning Argument Matcher](argument-matcher/basic-mockito-argument-matcher)
+- [Argument Matcher](mockito-argument-matcher/mockito-argument-matcher-main-page)
+    - [Basic Argument Matcher](mockito-argument-matcher/basic-mockito-argument-matcher)
+    - [Warning Argument Matcher](mockito-argument-matcher/mockito-argument-matcher-warning)
 
 ## [](#header-2)Number of Interactions
 
