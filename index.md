@@ -10,19 +10,19 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
 - [Configuring Mockito](mockito-configuration/configuring-mockito-with-and-without-annotation)
     - [Configuring Mockito Project](mockito-configuration/mockito-configuration-project)
     - [Configuring Mockito without Annotations](mockito-configuration/mockito-configuration-without-annotation)
-    - [Configuring Mockito with Annotations](mockito-configuration/mockito-configuration-without-annotation)
+    - [Configuring Mockito with Annotations](mockito-configuration/mockito-configuration-with-annotation)
 
 ## [](#header-2)Behavior and Stubbing
 
-- [Behavior and Stubbing](mockito-behavior/mockito-behavior-and-stubbing)
-  - [mock() and verify()](mockito-behavior/mockito-using-mock)
-  - [mock(), thenReturn(), when() and verify()](mockito-stubbing/mockito-mock-when-then-return-verify)
-  - [thenThrow()](mockito-stubbing/mockito-then-throw)
-  - [Stubbing with Fluent Interface](mockito-stubbing/mockito-stubbing-fluent-interface)
-  - [Resetting interactions](mockito-stubbing/mockito-resetting-interactions)
-  - [Ignoring Stubs](mockito-stubbing/mockito-ignoring-stubs)
-  - [BDD with Mockito](mockito-bdd/mockito-behavioral-driven-development)
-  - [Custom Verification Error Message](mockito-verification/mockito-verification-custom-message)
+- [Behavior and Stubbing](mockito-behavior-stubbing/mockito-behavior-and-stubbing)
+  - [mock() and verify()](mockito-behavior-stubbing/mockito-using-mock)
+  - [mock(), thenReturn(), when() and verify()](mockito-behavior-stubbing/mockito-mock-when-then-return-verify)
+  - [thenThrow()](mockito-behavior-stubbing/mockito-then-throw)
+  - [Stubbing with Fluent Interface](mockito-behavior-stubbing/mockito-stubbing-fluent-interface)
+  - [Resetting interactions](mockito-behavior-stubbing/mockito-resetting-interactions)
+  - [Ignoring Stubs](mockito-behavior-stubbing/mockito-ignoring-stubs)
+  - [BDD with Mockito](mockito-behavior-stubbing/mockito-behavioral-driven-development)
+  - [Custom Verification Error Message](mockito-behavior-stubbing/mockito-verification-custom-message)
 
 ## [](#header-2)Argument Matcher - Basic
 
