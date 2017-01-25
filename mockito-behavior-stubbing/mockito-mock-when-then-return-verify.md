@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Mockito - Basic usage of when() and then() methods
+# Mockito - Basic usage of when() and thenReturn() methods
 
 ### Example 1
 
@@ -10,7 +10,7 @@ This example is showing us how to Stub a method. Stub here means the you will cr
 
 In out scenario, we are asking for Mockito:
 
-- Hey Mockito, please, when the method findNameById() is called with the value 25, then please return the name "Craft Coder - Google Guava"
+- Hey Mockito, please, when the method **findNameById()** is called with the value 25, **then return** the name "Craft Coder - Google Guava"
 
 As you can see, we taught the Mockito what we are excepting for when the method findNameById is called
 
