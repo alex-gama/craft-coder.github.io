@@ -37,7 +37,6 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
     - [Special Number of Interactions](mockito-interactions/special-mockito-number-interactions)
     - [Never doing an interaction](mockito-interactions/mockito-never-doing-interactions)
     - [Redundant Invocations](mockito-interactions/mockito-redundant-invocations)
-    - [Verifying no More Interactions](mockito-interactions/verifying-no-more-interactions)
 
 ## [](#header-2)Verifying mocks with Timeout
 
