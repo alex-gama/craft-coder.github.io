@@ -46,7 +46,7 @@ Let's what you will learn (or revisit) in this Project!
 
 ### Number of Interactions
 
-- [Number of Interactions](https://craft-coder.github.io/mockito-crafting-code/mockito-interactions/number-of-interactions)
+- [Number of Interactions](https://craft-coder.github.io/mockito-crafting-code/mockito-interactions/mockito-number-of-interactions)
     - [Basic Number of Interactions](https://craft-coder.github.io/mockito-crafting-code/mockito-interactions/basic-mockito-number-interactions)
     - [Special Number of Interactions](https://craft-coder.github.io/mockito-crafting-code/mockito-interactions/special-mockito-number-interactions)
     - [Never doing an interaction](https://craft-coder.github.io/mockito-crafting-code/mockito-interactions/mockito-never-doing-interactions)
