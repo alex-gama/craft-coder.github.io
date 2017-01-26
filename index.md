@@ -32,7 +32,7 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
 
 ## [](#header-2)Number of Interactions
 
-- [Number of Interactions](mockito-interactions/number-of-interactions)
+- [Number of Interactions](mockito-interactions/mockito-number-of-interactions)
     - [Basic Number of Interactions](mockito-interactions/basic-mockito-number-interactions)
     - [Special Number of Interactions](mockito-interactions/special-mockito-number-interactions)
     - [Never doing an interaction](mockito-interactions/mockito-never-doing-interactions)
