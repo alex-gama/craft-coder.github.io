@@ -84,6 +84,14 @@ inside a method that should use the **@Before** annotation from JUnit.
 
 This approach is similar to use @RunWith annotation.
 
+**Observation**
+
+If you are using the new version of Mockito, you will see that the @MockitoJUnitRunner was
+deprecated and will be removed with Mockito 3. But notice that the package is different.
+
+The org.mockito.runners.MockitoJUnitRunner was deprecated and the new one is the
+org.mockito.junit.MockitoJUnitRunner, therefore, the annotation name is the same but the package is different :)
+
 [Back to Mockito Configuration Page](configuring-mockito-with-and-without-annotation)
 
 [Back to Main page](/mockito-crafting-code)
