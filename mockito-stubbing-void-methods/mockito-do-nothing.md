@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Mockito Stubbing Void Methods - doNothing() method
+# Mockito Stubbing Void Methods - doNothing()
 
 ### Example 1
 
@@ -101,6 +101,6 @@ class UserDatabase {
 }
 ```
 
-[Back to Interactions Page](mockito-stubbing-void-methods)
+[Back to Stubbing void methods](stubbing-void-methods)
 
 [Back to the Main Page](/mockito-crafting-code)

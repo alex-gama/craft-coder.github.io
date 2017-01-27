@@ -11,5 +11,4 @@ layout: default
 - [doNothing() with spy](mockito-do-nothing-with-spy)
 - [doCallRealMethod()](mockito-do-call-real-method)
 
-
 [Back to the Main Page](/mockito-crafting-code)

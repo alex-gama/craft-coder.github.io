@@ -53,7 +53,7 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
 
 ## [](#header-2)Stubbing Void Methods
 
-- [Stubbing Void Methods](mockito-stubbing-void-methods/mockito-stubbing-void-methods)
+- [Stubbing Void Methods](mockito-stubbing-void-methods/stubbing-void-methods)
     - [doReturn()](mockito-stubbing-void-methods/mockito-do-return)
     - [doThrow()](mockito-stubbing-void-methods/mockito-do-throw)
     - [doAnswer()](mockito-stubbing-void-methods/mockito-do-answer)

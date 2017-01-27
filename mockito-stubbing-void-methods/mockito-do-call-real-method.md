@@ -97,6 +97,6 @@ If you run the code above, you will see a message that will be printed out in th
 Sending message
 ```
 
-[Back to Interactions Page](mockito-stubbing-void-methods)
+[Back to Stubbing void methods](stubbing-void-methods)
 
 [Back to the Main Page](/mockito-crafting-code)

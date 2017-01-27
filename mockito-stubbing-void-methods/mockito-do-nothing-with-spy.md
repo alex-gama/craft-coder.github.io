@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Mockito Stubbing Void Methods - doNothing() method with Spy
+# Mockito Stubbing Void Methods - doNothing() with Spy
 
 ### Example 1
 
@@ -62,6 +62,6 @@ public class MockitoStubbingVoidMethodsUsingDoNothingMethodTest {
 As you can see, we are using the **Mockito.doNothing()** method to fix the problem. Keep in mind that this method
 only can be used in **void methods**
 
-[Back to Interactions Page](mockito-stubbing-void-methods)
+[Back to Stubbing void methods](stubbing-void-methods)
 
 [Back to the Main Page](/mockito-crafting-code)
