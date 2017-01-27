@@ -52,6 +52,24 @@ public class MockitoStubbingVoidMethodsUsingDoThrowMethodTest {
 
 ```
 
+### Example 3
+
+Just to extend the previous example, we can stub the void method and ask to Mockito to create
+a **new instance** of the Exception in it method invocation
+
+```java
+public class MockitoStubbingVoidMethodsUsingDoThrowMethodTest {
+
+    @Test
+	public void shouldThrowsAnExceptionWhenTheMethodIsCalledCreatingANewInstanceOfTheException() throws Exception {
+		UserDatabase userDatabase = mock(UserDatabase.class);
+
+		doThrow(RuntimeException.class).when(userDatabase).delete();
+	}
+
+}
+```
+
 [Back to Interactions Page](mockito-stubbing-void-methods)
 
 [Back to the Main Page](/mockito-crafting-code)
