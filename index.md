@@ -27,7 +27,7 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
 ## [](#header-2)Argument Matcher - Basic
 
 - [Argument Matcher](mockito-argument-matcher/mockito-argument-matcher-main-page)
-    - [Basic Argument Matcher](mockito-argument-matcher/basic-mockito-argument-matcher)
+    - [Fundamental Argument Matcher](mockito-argument-matcher/fundamental-mockito-argument-matcher)
     - [Warning Argument Matcher](mockito-argument-matcher/mockito-argument-matcher-warning)
 
 ## [](#header-2)Number of Interactions
