@@ -55,7 +55,7 @@ public class MockitoStubbingVoidMethodsUsingDoThrowMethodTest {
 ### Example 3
 
 Just to extend the previous example, we can stub the void method and ask to Mockito to create
-a **new instance** of the Exception in it method invocation
+a **new instance** of the Exception in each method invocation
 
 ```java
 public class MockitoStubbingVoidMethodsUsingDoThrowMethodTest {

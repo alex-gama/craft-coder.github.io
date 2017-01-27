@@ -8,6 +8,7 @@ layout: default
 - [doThrow()](mockito-do-throw)
 - [doAnswer()](mockito-do-answer)
 - [doNothing()](mockito-do-nothing)
+- [doNothing() with spy](mockito-do-nothing-with-spy)
 - [doCallRealMethod()](mockito-do-call-real-method)
 
 
