@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Mockito - doReturn() method
+# Mockito Stubbing Void Methods - dowReturn() method
 
 ### Example 1
 
@@ -10,7 +10,7 @@ Sometimes is not possible to use **Mockito.when()** method. In this example, we 
 and testing it.
 
 ```java
-public class MockitoStubbingVoidMethodsTest {
+public class MockitoStubbingVoidMethodsUsingDoReturnMethodTest {
 
 	@Test
 	public void shouldVerifyIfTheMessageIsCorrect() throws Exception {
@@ -44,7 +44,7 @@ In this example we stubbed the sendMessage() method, indicating that a specific 
 when the method is called.
 
 ```java
-public class MockitoStubbingVoidMethodsTest {
+public class MockitoStubbingVoidMethodsUsingDoReturnMethodTest {
 
 	@Test
 	public void shouldVerifyIfTheMessageIsCorrectButCallingTheRealMethod() throws Exception {
@@ -76,7 +76,7 @@ can't help us with that.
 Note that now we don't have a message being printed out in the console. Here the **real method is not called anymore**
 
 ```java
-public class MockitoStubbingVoidMethodsTest {
+public class MockitoStubbingVoidMethodsUsingDoReturnMethodTest {
 
 	@Test
 	public void shouldVerifyIfTheMessageIsCorrectButWithoutCallingTheRealMethod() throws Exception {
@@ -103,7 +103,7 @@ stubbed previous in the test
 Here, we stubbed the sendMessage() method and it should throws an Exception when it is called.
 
 ```java
-public class MockitoStubbingVoidMethodsTest {    
+public class MockitoStubbingVoidMethodsUsingDoReturnMethodTest {    
 
 	@Test
 	public void shouldThrowsAnUnsupportedOperationException() throws Exception {
@@ -128,7 +128,7 @@ Now it's time to fix the Exception that is being thrown after call the sendMessa
 To do that, we will use the doReturn() method again, overriding the previous exception-stubbing
 
 ```java
-public class MockitoStubbingVoidMethodsTest {    
+public class MockitoStubbingVoidMethodsUsingDoReturnMethodTest {    
 
 	@Test
 	public void shouldNotThrowsAnUnsupportedOperationException() throws Exception {
