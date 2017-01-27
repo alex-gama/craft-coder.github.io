@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1)Mockito
+# Mockito
 
 You will see a lot of awesome examples of how to use Mockito Library, crafted with s2, music and beer by [@alexandregama](https://github.com/alexandregama)
 
@@ -49,7 +49,7 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
 
 - [Verifying Particular Order](mockito-ordering/mockito-particular-order)
     - [For Single Mock](mockito-ordering/mockito-particular-order-single-mock)
-    - [For Non Single Mock](mockito-ordering/mockito-particular-order-non-single-mock)
+    - [For Non Single Mock](mockito-ordering/mockito-particular-order-with-multiple-mocks)
 
 ## [](#header-2)Stubbing Void Methods
 
