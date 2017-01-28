@@ -4,90 +4,32 @@ layout: default
 
 # Mockito
 
-You will see a lot of awesome examples of how to use Mockito Library, crafted with s2, music and beer by [@alexandregama](https://github.com/alexandregama)
+Mockito is a great mocking framework for unit tests in the Java world
 
-## [](#header-2)Configuring Your Test to Use Mockito
-- [Configuring Mockito](mockito-configuration/configuring-mockito-with-and-without-annotation)
-    - [Configuring Mockito Project](mockito-configuration/mockito-configuration-project)
-    - [Configuring Mockito without Annotations](mockito-configuration/mockito-configuration-without-annotation)
-    - [Configuring Mockito with Annotations](mockito-configuration/mockito-configuration-with-annotation)
+Here, you will see a [lot of awesome - I hope -](mockito) examples of how to use Mockito Library.
 
-## [](#header-2)Behavior and Stubbing
+You can go the [Mockito main page](mockito/) or you can choose below the feature you're interested in :)
 
-- [Behavior and Stubbing](mockito-behavior-stubbing/mockito-behavior-and-stubbing)
-  - [mock() and verify()](mockito-behavior-stubbing/mockito-using-mock)
-  - [mock(), thenReturn(), when() and verify()](mockito-behavior-stubbing/mockito-mock-when-then-return-verify)
-  - [thenThrow()](mockito-behavior-stubbing/mockito-then-throw)
-  - [Stubbing with Fluent Interface](mockito-behavior-stubbing/mockito-stubbing-fluent-interface)
-  - [Resetting interactions](mockito-behavior-stubbing/mockito-resetting-interactions)
-  - [Ignoring Stubs](mockito-behavior-stubbing/mockito-ignoring-stubs)
-  - [BDD with Mockito](mockito-behavior-stubbing/mockito-behavioral-driven-development)
-  - [Custom Verification Error Message](mockito-behavior-stubbing/mockito-verification-custom-message)
+- [Configuring Mockito](mockito/configuration/configuring-mockito-with-and-without-annotation)
 
-## [](#header-2)Argument Matcher - Basic
+- [Behavior and Stubbing](mockito/behavior-stubbing/mockito-behavior-and-stubbing)
 
-- [Argument Matcher](mockito-argument-matcher/mockito-argument-matcher-main-page)
-    - [Fundamental Argument Matcher](mockito-argument-matcher/fundamental-mockito-argument-matcher)
-    - [Warning Argument Matcher](mockito-argument-matcher/mockito-argument-matcher-warning)
+- [Argument Matcher](mockito/argument-matcher/mockito-argument-matcher-main-page)
 
-## [](#header-2)Number of Interactions
+- [Number of Interactions](mockito/interactions/mockito-number-of-interactions)
 
-- [Number of Interactions](mockito-interactions/mockito-number-of-interactions)
-    - [Basic Number of Interactions](mockito-interactions/basic-mockito-number-interactions)
-    - [Special Number of Interactions](mockito-interactions/special-mockito-number-interactions)
-    - [Never doing an interaction](mockito-interactions/mockito-never-doing-interactions)
-    - [Redundant Invocations](mockito-interactions/mockito-redundant-invocations)
+- [Verifying with Timeout](mockito/timeout/mockito-verifying-with-timeout)
 
-## [](#header-2)Verifying mocks with Timeout
+- [Verifying Particular Order](mockito/ordering/mockito-particular-order)
 
-- [Verifying with Timeout](mockito-timeout/mockito-verifying-with-timeout)
-    - [Basic Timeout verification](mockito-timeout/mockito-basic-timeout-verification)
-    - [Special Timeout verification](mockito-timeout/mockito-special-timeout-verification)
+- [Stubbing Void Methods](mockito/stubbing-void-methods/stubbing-void-methods)
 
+- [Spying on Real Methods](mockito/spy/mockito-spying-real-methods)
 
-## [](#header-2)Verifying Particular Order
+- [ArgumentCaptor](mockito/argument-captor/mockito-capturing-arguments-argument-captor)
 
-- [Verifying Particular Order](mockito-ordering/mockito-particular-order)
-    - [For Single Mock](mockito-ordering/mockito-particular-order-single-mock)
-    - [For Non Single Mock](mockito-ordering/mockito-particular-order-with-multiple-mocks)
+- [Partial Mock](mockito/partial-mock/mockito-partial-mock-support)
 
-## [](#header-2)Stubbing Void Methods
+- [Mock's Answer](mockito/answer/mockito-configuring-answer)
 
-- [Stubbing Void Methods](mockito-stubbing-void-methods/stubbing-void-methods)
-    - [doReturn()](mockito-stubbing-void-methods/mockito-do-return)
-    - [doThrow()](mockito-stubbing-void-methods/mockito-do-throw)
-    - [doAnswer()](mockito-stubbing-void-methods/mockito-do-answer)
-    - [doNothing()](mockito-stubbing-void-methods/mockito-do-nothing)
-    - [doNothing() with spy](mockito-stubbing-void-methods/mockito-do-nothing-with-spy)
-    - [doCallRealMethod()](mockito-stubbing-void-methods/mockito-do-call-real-method)
-
-## [](#header-2)Spying on Real Methods
-- [Spying on Real Methods](mockito-spy/mockito-spying-real-methods)
-    - [Spying without annotation](mockito-spy/mockito-spying-real-methods-without-annotation)
-    - [Spying with annotation](mockito-spy/mockito-spying-real-methods-with-annotation)
-    - [Spying void methods](mockito-spy/mockito-spying-real-void-methods)
-
-## [](#header-2)Capturing Arguments with ArgumentCaptor
-
-- [ArgumentCaptor](mockito-argument-captor/mockito-capturing-arguments-argument-captor)
-    - [ArgumentCaptor without annotation](mockito-argument-captor/mockito-argument-captor-without-annotation)
-    - [ArgumentCaptor with annotation](mockito-argument-captor/mockito-argument-captor-with-annotation)
-
-## [](#header-2)Partial Mock
-
-- [Partial Mock](mockito-partial-mock/mockito-partial-mock-support)
-
-## [](#header-2)Mock's Answer
-
-- [Mock's Answer](mockito-answer/mockito-configuring-answer)
-    - [Mock's Answer with thenAnswer()](mockito-answer/mockito-then-answer)
-    - [Calls Real Methods](mockito-answer/mockito-then-answer-calls-real-methods)
-    - [Returns Deep Stubs](mockito-answer/mockito-then-answer-returns-deep-stubs)
-    - [Returns Defaults](mockito-answer/mockito-then-answer-returns-defaults)
-    - [Returns Mocks](mockito-answer/mockito-then-answer-returns-mocks)
-    - [Returns Self](mockito-answer/mockito-then-answer-returns-self)
-    - [Returns Smart Nulls](mockito-answer/mockito-then-smart-nulls)
-
-## [](#header-2)Java 8 Lambda Support
-
-- [Java 8 Lambda Support](mockito-java8/mockito-java8-lambda-support)
+- [Java 8 Lambda Support](mockito/java8/mockito-java8-lambda-support)
