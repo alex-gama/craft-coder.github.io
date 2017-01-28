@@ -6,7 +6,7 @@ layout: default
 
 Mockito is a great mocking framework for unit tests in the Java world
 
-Here, you will see a [lot of awesome - I hope -](mockito) examples of how to use Mockito Library.
+Here you will see a [lot of awesome - I hope -](mockito) examples of how to use Mockito Library.
 
 You can go the [Mockito main page](mockito/) or you can choose below the feature you're interested in :)
 
@@ -33,3 +33,12 @@ You can go the [Mockito main page](mockito/) or you can choose below the feature
 - [Mock's Answer](mockito/answer/mockito-configuring-answer)
 
 - [Java 8 Lambda Support](mockito/java8/mockito-java8-lambda-support)
+
+# Google Guava
+
+Guava is a great set of core libraries that help us with many problems, as Collections, Concurrency, Cache,
+String Processing, Reflection and much more!
+
+You can go to the [Guava main page](google-guava/) or you can choose below the desired feature that you want to know :)
+
+- [Optionals](google-guava/optional/google-guava-optional)
