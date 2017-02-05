@@ -7,3 +7,6 @@ github_username:      alexandregama
 linkedin_username:    alexandregama
 google_plus_username: alexandregama
 facebook_username:    alexandre.gama.lima
+
+gems:
+  - jekyll-seo-tag
