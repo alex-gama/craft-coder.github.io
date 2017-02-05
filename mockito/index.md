@@ -62,10 +62,10 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
     - [doCallRealMethod()](stubbing-void-methods/mockito-do-call-real-method)
 
 ## [](#header-2)Spying on Real Methods
-- [Spying on Real Methods](spy/mockito-spying-real-methods)
-    - [Spying without annotation](spy/mockito-spying-real-methods-without-annotation)
-    - [Spying with annotation](spy/mockito-spying-real-methods-with-annotation)
-    - [Spying void methods](spy/mockito-spying-real-void-methods)
+- [Spying on Real Methods](mockito/spy/mockito-spying-real-methods)
+    - [Spying without annotation](mockito/spy/mockito-spying-real-methods-without-annotation)
+    - [Spying with annotation](mockito/spy/mockito-spying-real-methods-with-annotation)
+    - [Spying void methods](mockito/spy/mockito-spying-real-void-methods)
 
 ## [](#header-2)Capturing Arguments with ArgumentCaptor
 
@@ -91,3 +91,5 @@ You will see a lot of awesome examples of how to use Mockito Library, crafted wi
 ## [](#header-2)Java 8 Lambda Support
 
 - [Java 8 Lambda Support](java8/mockito-java8-lambda-support)
+
+[<- Back to home](/)
