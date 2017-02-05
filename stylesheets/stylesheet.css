@@ -9,6 +9,18 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
+  .form-post {
+      padding: 2em 0em;
+  }
+
+  .form-post {
+      background: #E91E63;
+      background-image: url(/img/paper-15.png);
+      padding: 3em 1em 5em 1em;
+      text-align: center;
+      box-shadow: 0 0 19px #aaa;
+  }  
+
 a {
   color: #1e6bb8;
   text-decoration: none; }
