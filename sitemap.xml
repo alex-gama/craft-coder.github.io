@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://craft-coder.github.io/</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/configuration/configuring-mockito-with-and-without-annotation</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/behavior-stubbing/mockito-behavior-and-stubbing</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/argument-matcher/mockito-argument-matcher-main-page</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/interactions/mockito-number-of-interactions</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/timeout/mockito-verifying-with-timeout</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/ordering/mockito-particular-order</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/stubbing-void-methods/stubbing-void-methods</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/spy/mockito-spying-real-methods</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/argument-captor/mockito-capturing-arguments-argument-captor</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/partial-mock/mockito-partial-mock-support</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/answer/mockito-configuring-answer</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/java8/mockito-java8-lambda-support</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/google-guava/</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/google-guava/optional/google-guava-optional</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/configuration/mockito-configuration-project</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/configuration/mockito-configuration-without-annotation</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/configuration/mockito-configuration-with-annotation</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/behavior-stubbing/mockito-using-mock</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/behavior-stubbing/mockito-mock-when-then-return-verify</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/behavior-stubbing/mockito-then-throw</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/behavior-stubbing/mockito-stubbing-fluent-interface</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/behavior-stubbing/mockito-resetting-interactions</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/behavior-stubbing/mockito-ignoring-stubs</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/behavior-stubbing/mockito-behavioral-driven-development</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/behavior-stubbing/mockito-verification-custom-message</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/argument-matcher/fundamental-mockito-argument-matcher</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/argument-matcher/mockito-argument-matcher-warning</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/interactions/basic-mockito-number-interactions</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/interactions/special-mockito-number-interactions</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/interactions/mockito-never-doing-interactions</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/interactions/mockito-redundant-invocations</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/timeout/mockito-basic-timeout-verification</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/timeout/mockito-special-timeout-verification</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/ordering/mockito-particular-order-single-mock</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/ordering/mockito-particular-order-with-multiple-mocks</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/stubbing-void-methods/mockito-do-return</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/stubbing-void-methods/mockito-do-throw</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/stubbing-void-methods/mockito-do-answer</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/stubbing-void-methods/mockito-do-nothing</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/stubbing-void-methods/mockito-do-nothing-with-spy</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/stubbing-void-methods/mockito-do-call-real-method</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/argument-captor/mockito-argument-captor-without-annotation</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/argument-captor/mockito-argument-captor-with-annotation</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/answer/mockito-then-answer</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/answer/mockito-then-answer-calls-real-methods</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/answer/mockito-then-answer-returns-deep-stubs</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/answer/mockito-then-answer-returns-defaults</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/answer/mockito-then-answer-returns-mocks</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/answer/mockito-then-answer-returns-self</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/answer/mockito-then-smart-nulls</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/spy/mockito-spying-real-methods-without-annotation</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/spy/mockito-spying-real-methods-with-annotation</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/mockito/spy/mockito-spying-real-void-methods</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/google-guava/optional/google-guava-optional-of</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/google-guava/optional/google-guava-optional-absent</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://craft-coder.github.io/google-guava/optional/google-guava-optional-from-nullable</loc>
+  <lastmod>2017-02-05T21:00:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
