@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: false
 ---
 
 ### Configuring Mockito - How to configure and the first basic Mock object
